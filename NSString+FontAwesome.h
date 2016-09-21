@@ -383,7 +383,8 @@ typedef enum {
     FaWheelchair = 0xf193,
     FaVimeoSquare = 0xf194,
     FaTry = 0xf195,
-    FaPlusSquareO = 0xf196
+    FaPlusSquareO = 0xf196,
+    FaTrash = 0xf1f8
 } FaIcon;
 
 
